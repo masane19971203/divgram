@@ -1,4 +1,4 @@
-<!-- # photogram DB設計
+# photogram DB設計
 ## usersテーブル
 |Column|Type|Options|
 |------|----|-------|
@@ -47,4 +47,4 @@
 ### Association
 - belongs_to :user
 - belongs_to :tweet
- -->
+
